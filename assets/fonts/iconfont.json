@@ -1,0 +1,44 @@
+{
+  "id": "5152467",
+  "name": "ws",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "437518",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    },
+    {
+      "icon_id": "5832903",
+      "name": "email",
+      "font_class": "email",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "1379792",
+      "name": "panda",
+      "font_class": "panda",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "1852173",
+      "name": "panda",
+      "font_class": "panda1",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "6808028",
+      "name": "Panda",
+      "font_class": "Panda",
+      "unicode": "ed19",
+      "unicode_decimal": 60697
+    }
+  ]
+}
